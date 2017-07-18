@@ -1,0 +1,1 @@
+The sample data files belongs CHROME 2014 Online Handwritten Mathematical Expression Recognition Dataset
